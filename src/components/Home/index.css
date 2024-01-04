@@ -1,0 +1,50 @@
+.home-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.para-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 120px;
+  width: 486px;
+  height: 408px;
+  margin-top: 111px;
+  margin-right: 12px;
+}
+
+.btn-container {
+  display: flex;
+  flex-direction: row;
+}
+.uiux {
+  color: #fdc435;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Nunito";
+  height: 27px;
+}
+.projects-btn {
+  width: 67px;
+  height: 27px;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  border-width: 0px;
+  color: #25282b;
+  border-radius: 8px;
+  padding: 8px 24px 8px 24px;
+  background-color: #fdc435;
+}
+.linkedin-btn {
+  width: 69px;
+  height: 27px;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+  border-radius: 8px;
+  border-width: 2px;
+  background-color: white;
+  color: #252828;
+  padding: 8px 24px 8px 24px;
+}

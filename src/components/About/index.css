@@ -1,0 +1,58 @@
+.add-btn-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
+.heading {
+  width: 260px;
+  height: 72px;
+  font-family: "Playfair Display";
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 72px;
+  letter-spacing: 0em;
+  text-align: center;
+  background: #25282b;
+}
+.underline {
+  width: 100px;
+  height: 4px;
+  border-radius: 2px;
+  background: #fdc435;
+}
+.project-name-input {
+  width: 400px;
+  height: 40px;
+  border-radius: 8px;
+  border: 1px;
+  background: linear-gradient(0deg, #ffffff, #ffffff),
+    linear-gradient(0deg, #e8ecf4, #e8ecf4);
+  border: 1px solid #e8ecf4;
+}
+.description {
+  width: 400px;
+  height: 160px;
+  border-radius: 8px;
+  border: 1px;
+  background: linear-gradient(0deg, #ffffff, #ffffff),
+    linear-gradient(0deg, #e8ecf4, #e8ecf4);
+  border: 1px solid #e8ecf4;
+}
+
+.project-link-input {
+  width: 400px;
+  height: 40px;
+  border-radius: 8px;
+  border: 1px;
+  background: linear-gradient(0deg, #ffffff, #ffffff),
+    linear-gradient(0deg, #e8ecf4, #e8ecf4);
+  border: 1px solid #e8ecf4;
+}
+
+.add-btn {
+  width: 81px;
+  height: 43px;
+  padding: 8px, 24px, 8px, 24px;
+  border-radius: 8px;
+  background: #fdc435;
+}
