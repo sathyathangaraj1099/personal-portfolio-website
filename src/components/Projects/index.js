@@ -1,5 +1,6 @@
 import "./index.css";
-import Header from "./components/header";
+import Header from "./components/Header";
+import ProjectDetails from "./components/ProjectDetails";
 
 const Projects = () => (
   <>
@@ -15,7 +16,7 @@ const Projects = () => (
             I created this personal project in order to shw how to create an
             interface in Figma using a portfolio as an example.
           </p>
-          <button type="button" className="view-project-button">
+          <button type="button" className="view-project-button" onClick={ProjectDetails}>
             View Project
           </button>
         </div>

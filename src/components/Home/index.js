@@ -1,7 +1,7 @@
-import "./index.css";
+import './index.css';
 
-import Header from "./component/Header";
-import Projects from "../Projects";
+import Header from '../Header';
+import Projects from '../Projects';
 
 const Home = () => (
   <>
